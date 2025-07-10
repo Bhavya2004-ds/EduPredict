@@ -145,19 +145,6 @@ The application expects a scikit-learn compatible model that:
 - Returns numeric predictions (exam scores)
 - Is saved using joblib
 
-### Example Model Training:
-```python
-import joblib
-from sklearn.ensemble import RandomForestRegressor
-
-# Train your model
-model = RandomForestRegressor()
-model.fit(X_train, y_train)
-
-# Save the model
-joblib.dump(model, 'model.pkl')
-```
-
 ## Best Practices
 
 - **Data Quality**: Ensure clean, complete data for best results
