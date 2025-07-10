@@ -4,7 +4,7 @@ An AI-powered educational analytics platform that uses machine learning to predi
 
 ## Features
 
-- ** AI-Powered Predictions**: Advanced machine learning algorithms for accurate performance forecasting
+- **AI-Powered Predictions**: Advanced machine learning algorithms for accurate performance forecasting
 - **Interactive Dashboard**: Real-time metrics, visual analytics, and trend analysis
 - **Advanced Analytics**: Statistical analysis, correlation studies, and demographic insights
 - **Actionable Reports**: At-risk student identification with intervention recommendations
