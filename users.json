@@ -1,0 +1,18 @@
+{
+  "demo": {
+    "password": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "email": "demo@edupredict.com",
+    "first_name": "Demo",
+    "last_name": "User",
+    "role": "Teacher",
+    "created_at": "2024-01-01"
+  },
+  "aman": {
+    "password": "5d7e4e5b8dca9a9ac4575654ff707580a1aad73c27c02ae56b780bd32758c822",
+    "email": "amanjain11@gmail.com",
+    "first_name": "Aman",
+    "last_name": "Jain",
+    "role": "Teacher",
+    "created_at": "now"
+  }
+}
